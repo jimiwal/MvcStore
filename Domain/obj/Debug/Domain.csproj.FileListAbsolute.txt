@@ -1,0 +1,11 @@
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\Domain.dll
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\Domain.pdb
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\Ninject.dll
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\Ninject.xml
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\obj\Debug\Domain.dll
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\obj\Debug\Domain.pdb
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\Domain.dll.config
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\EntityFramework.dll
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\EntityFramework.xml
+c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\EntityFramework.SqlServer.xml
