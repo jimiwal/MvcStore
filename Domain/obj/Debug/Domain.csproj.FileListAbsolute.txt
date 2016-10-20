@@ -9,3 +9,14 @@ c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\D
 c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\EntityFramework.SqlServer.dll
 c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\EntityFramework.xml
 c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\bin\Debug\Domain.dll.config
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\bin\Debug\Domain.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\bin\Debug\Domain.pdb
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\bin\Debug\EntityFramework.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\bin\Debug\Ninject.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\bin\Debug\EntityFramework.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\bin\Debug\Ninject.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\obj\Debug\Domain.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\Domain\obj\Debug\Domain.pdb

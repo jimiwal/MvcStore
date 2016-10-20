@@ -18,3 +18,23 @@ c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\UnitTests\bi
 c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\UnitTests\bin\Debug\WebUI.dll
 c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\UnitTests\bin\Debug\Domain.pdb
 c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\UnitTests\bin\Debug\WebUI.pdb
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\Domain.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\Moq.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\Ninject.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\WebUI.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\Domain.pdb
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\WebUI.pdb
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\Moq.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\bin\Debug\Ninject.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\UnitTests\obj\Debug\UnitTests.pdb

@@ -29,3 +29,34 @@ c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\WebUI\bin\Do
 c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\WebUI\bin\Domain.pdb
 c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\WebUI\bin\EntityFramework.SqlServer.dll
 c:\users\gawlorob\documents\visual studio 2012\Projects\MyStoreBest\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\WebUI.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\WebUI.pdb
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\Castle.Core.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\Domain.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\EntityFramework.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\Moq.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\Ninject.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.Helpers.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.Mvc.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.Providers.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.Razor.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.WebPages.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\Domain.pdb
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\Castle.Core.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\EntityFramework.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\Moq.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\Ninject.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.Helpers.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.Mvc.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.Razor.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.WebPages.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\obj\Debug\WebUI.dll
+C:\Users\gawlorob\Documents\Projects\MVCStore\MvcStore\WebUI\obj\Debug\WebUI.pdb

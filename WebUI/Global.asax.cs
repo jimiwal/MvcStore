@@ -6,6 +6,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using Domain.Entities;
+using WebUI.Binders;
 using WebUI.Infrastructure;
 
 namespace WebUI
@@ -66,6 +68,8 @@ namespace WebUI
             RegisterRoutes(RouteTable.Routes);
 
             ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
+
+            ModelBinders.Binders.Add((typeof(Cart)), new CartModelBinder());
         }
     }
 }
